@@ -3,7 +3,7 @@
 ## AIM:
 To design a website to perform mathematical calculations in server side.
 
-## DESIGN STEPS:
+### DESIGN STEPS:
 
 ### Step 1:
 Clone the repository from GitHub
@@ -17,7 +17,7 @@ Create a New App.
 ### Step 4:
 Create python programs for views and urls.
 
-### Step 5:
+### Step 5:
 Create a HTML file of forms.
 
 ### Step 6:
