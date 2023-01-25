@@ -125,7 +125,7 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT:
-![ OUTPUT](./out.png) 
+![ OUTPUT](./output.png) 
 
 ### HOME PAGE:
 ![HOME PAGE](./home.png)
